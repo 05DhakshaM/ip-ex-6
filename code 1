@@ -7,7 +7,6 @@
  <center>
  <h1>Welcome!</h1>
  <h3>To change the image displaying, click the button..</h3>
-Name: Suriya Lakshmi M Roll No: 22CSEB29 Pg.No:
  <img src="pokemon.jpg" alt="no data found" id="img"> <br> <br>
  <button id="bt">Click me</button>
  </center>
